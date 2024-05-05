@@ -31,7 +31,7 @@ warnings.filterwarnings('ignore')
 ```
 
     
-## Key Insights to Analyzed
+## Key Insights Analyzed
 
 A) Marketing Analysis:
 
