@@ -5,12 +5,13 @@ This project involves a comprehensive analysis of Instagram user engagement data
 
 
 ## 🛠 Tech Stack
-Python, Jupyter Notebook, Mysql
+Python, Pandas, Matplotlib, Jupyter Notebook, Mysql
 
 
 ## Dataset
 
 https://docs.google.com/document/d/1MhN6A-9a36BHkL6UBVaTGYKdNwdXP-Sa/edit
+
 ## Installation & Libraries
 
 ```bash
